@@ -1,3 +1,5 @@
+[![Build Status](https://vikneshanamala.visualstudio.com/AzureAgileTest/_apis/build/status/viknesh84.TestProjects?branchName=master)](https://vikneshanamala.visualstudio.com/AzureAgileTest/_build/latest?definitionId=1&branchName=master)
+
 # Tailwind Traders Website
 
 ![Tailwind Traders Website](Documents/Images/Website.png)
